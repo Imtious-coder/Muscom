@@ -1,0 +1,21 @@
+.Headers{
+    text-align: center;
+}
+.Header_Logo{
+    height: 80px;
+}
+.Headers nav {
+    background-color: rgb(37, 37, 37);
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 30px;
+    padding: 5px 10px 5px 10px;
+}
+nav a:hover{
+    background-color: grey;
+}
+
